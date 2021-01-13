@@ -1,0 +1,14 @@
+u=rwx,g=r,o=r
+/marconi_scratch/userexternal/edrigo00/degir/perovskitepbescalar/ecutconv/90.ecut
+mar 12 gen 2021, 18.31.29, CET
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 31
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 9
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 5
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 41
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 29
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 21
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 38
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 19
+application called MPI_Abort(MPI_COMM_WORLD, 1) - process 24
+ Done.
+mar 12 gen 2021, 19.42.16, CET
